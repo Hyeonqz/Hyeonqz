@@ -20,7 +20,6 @@
         <hr>  
         <h2> ⚒ Backend</h2>
         <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
-        <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
         <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
         <hr> 
@@ -31,8 +30,10 @@
        </div>      
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
-    <div style="text-align: left;"> <a href=https://hyeonq.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://hyeonq.tistory.com/"> </a>
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br>   
+    <div style="text-align: left;">
+         <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white">
+        <a href=https://hyeonq.tistory.com/> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://hyeonq.tistory.com/"> </a>
           </div>  <br>  
     </div>
     <div style="text-align: left;"> 
