@@ -5,7 +5,7 @@
 
 <h2>💡 About Me  </h2>
 
-<h>🖐 꾸준히 공부하고 지속적으로 성장하는 개발자가 되겠습니다 </b>.  <br></br></h>
+<h>1️⃣ 꾸준히 공부하고 지속적으로 성장하는 개발자가 되겠습니다 </b>.  <br></br></h>
 
 <h2>🎓 Experience & Social Activity</h2>
 
