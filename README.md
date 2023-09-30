@@ -7,7 +7,7 @@
 
 <h>1️⃣ 꾸준히 공부하고 지속적으로 성장하는 개발자가 되겠습니다 </b>.  <br></br></h>
 
-<h2>🎓 Experience & Social Activity</h2>
+<h2>🎓 Experience </h2>
 
 |소속 및 단체|활동 기간|내용|
 |---|---|---|
