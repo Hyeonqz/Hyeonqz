@@ -21,7 +21,7 @@
 
 | 기간 | 내용 | 역할 |
 | --- | --- | ---|
-| 2023.09.01 ~ 2023.09.22| '<a href="https://github.com/Hyeonqz/Model1-Project.git">Jeju 하다</a> | 로그인&로그아웃 , 마이페이지 및 백엔드 개발 보조 |
+| 2023.09.01 ~ 2023.09.22| '<a href="https://github.com/Hyeonqz/Model1-Project.git">Jeju 하다</a> | 로그인&로그아웃 , 마이페이지 및 백엔드 개발 보조 + DB설계 |
 
 
 
