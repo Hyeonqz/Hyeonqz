@@ -22,6 +22,7 @@
 | 기간 | 내용 | 역할 |
 | --- | --- | ---|
 | 2023.09.01 ~ 2023.09.22| '<a href="https://github.com/Hyeonqz/Model1-Project.git">Jeju 하다</a> | 로그인&로그아웃 , 마이페이지 및 백엔드 개발 보조 + DB설계 |
+| 2023.11.12 ~ 2023.11.30|  |  |
 
 
 
@@ -50,6 +51,7 @@
         <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
         <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white">
         <br/><img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
+        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring Boot&logoColor=white">
   
 </div>
 
