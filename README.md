@@ -63,7 +63,6 @@
 <br><br>
 <h2>📝 Contact me </h2>
 <div>
- <a href="https://velog.io/@jinhyeonkyu"><img alt="RED" src ="https://img.shields.io/badge/Velog-20C997.svg?&style=flat&logo=Velog&logoColor=white"/></a>
 <a href="https://github.com/Hyeonqz/"><img alt="RED" src ="https://img.shields.io/badge/Github-181717.svg?&style=flat&logo=GitHub&logoColor=white"/></a>
 <a href="https://hyeonq.tistory.com/"><img alt="RED" src ="https://img.shields.io/badge/Tistory-000000.svg?&style=flat&logo=Tistory&logoColor=white"/></a>
 <a href="https://www.notion.so/wlsgusrb78/Portpolio-e1cf34511cd74b6aa03bb085ec30557d?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white"></a>
