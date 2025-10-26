@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hyeonqz%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hyeonqz%20&fontSize=90)
 
 ### Hello, I am Jin Hyeon-kyu, a backend developer. I am interested in Kotlin and AI these days.
 
